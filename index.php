@@ -21,7 +21,7 @@
 
         <section id="tarea2">
             <div class="page-header"><h1>Tarea 2</h1></div>
-            <p><?php echo 'Angel 03916058D'; ?></p>
+            <p><?php echo 'Angel 0#######D'; ?></p>
             <p><?php echo 'El código del script php siempre se incluye entre las etiquetas <?php y ?>'; ?>
 
             <?php
